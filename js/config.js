@@ -1,0 +1,2 @@
+export const CONFIG={ants:400,exploration:.34,evaporation:.012,deposit:1.0,commRadius:12,knowledgeDecay:.003,randomness:.22,speed:1.35,sensorDistance:12,sensorAngle:.55};
+export const PARAMS=[['ants','Population',50,1200,50],['exploration','Exploration',0,1,.01],['evaporation','Evaporation',.001,.05,.001],['deposit','Pheromone strength',.1,3,.1],['commRadius','Communication radius',2,30,1],['knowledgeDecay','Knowledge decay',0,.03,.001],['randomness','Randomness',0,1,.01],['speed','Agent speed',.5,3,.1]];
